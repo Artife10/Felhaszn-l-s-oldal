@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.container{
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    right: 20%;
+    bottom: 10%;
+}
+
+table{
+    margin: auto;
+}
+
+
+td{
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    text-wrap: wrap;
+    padding: 0px;
+    background-color: rgb(18, 33, 46);
+}
+#titlecard{  
+    height: 20%;
+    background-color: rgb(18, 33, 46);
+    border-style: solid;
+    border-color: gray;
+}
+#bodycard{
+    margin: 0px;
+    height: 80%;
+    background-color: rgb(18, 33, 46);
+    border-style: solid;
+    border-color: gray;
+}
