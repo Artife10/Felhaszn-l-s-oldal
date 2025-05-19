@@ -1,3 +1,4 @@
+
 const userlist = [
     {
       "userId": 1,
@@ -600,8 +601,3 @@ const userlist = [
       "body": "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut"
     }
   ]
-
-
-function LoadStuff() {
-    
-}
